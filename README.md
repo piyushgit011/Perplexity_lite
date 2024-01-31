@@ -1,6 +1,6 @@
 # Perplexity Lite Using LangGraph, GPT-3, and Tavily AI:
 
-In this tutorial, I have utilized LangGraph, a library designed for building stateful, multi-actor applications. LangGraph, built on LangChain, allows for the coordination of multiple 'actors' in a cyclical computation process. This is particularly useful for adding cycles to your LLM applications, extending beyond the capabilities of a traditional DAG framework.
+In this project, I have utilized LangGraph, a library designed for building stateful, multi-actor applications. LangGraph, built on LangChain, allows for the coordination of multiple 'actors' in a cyclical computation process. This is particularly useful for adding cycles to your LLM applications, extending beyond the capabilities of a traditional DAG framework.
 
 I also used Tavily AI, an incredible tool for rapid insights and comprehensive research. Tavily AI streamlines the research process, from source gathering to organizing results, making it an invaluable asset for developers.
 
